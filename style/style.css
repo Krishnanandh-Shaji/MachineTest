@@ -11,3 +11,17 @@ section div{
     background-color: brown;
     margin-left: 5px;line-height: 50px;text-align: center;color:white;
 }
+
+section span{
+    display: block;
+    width: 15%;
+    height:50px;
+    background-color:crimson;
+    margin-left: 5px;line-height: 50px;text-align: center;color:white;
+}
+ul {
+    list-style: upper-roman;
+}
+ul li{
+    color:crimson
+}
