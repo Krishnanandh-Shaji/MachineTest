@@ -12,6 +12,7 @@
     <div>Git Example</div>
     <div>first commit</div>
     <div>restore </div>
+    <div>cherry pick </div>
     <span>My addition branch</span>
 </section>
 <ul>
